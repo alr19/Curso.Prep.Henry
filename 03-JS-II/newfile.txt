@@ -1,0 +1,9 @@
+Ciclo for en Java.
+es una estructura de control ciclica que se utiliza en programacion para dar una instruccion que sea repita, en forma de ciclo, 
+la cual se puede controlar dandole un valor de inicio y un valor final y ademas el valor de paso.
+
+El operador lógico "Y" que se expresa con el simbolo (&&) compara dos expresiones y nos devuelve verdadero si ambas son true o falso si una o ambas no son verdaderas.
+
+el operador "Ó" que se escribe  (||) devuelve true si una o ambas de las comparaciones son verdaderas, y false si ambas son falsas.
+
+el operador ! es el ("not") es un operador booleano que nos devolvera lo opuesto de lo que se le pasa.
